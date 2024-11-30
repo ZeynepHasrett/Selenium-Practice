@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.time.Duration;
 
-public class C06_Test {
+public class C06_Test2 {
 
     public static void main(String[] args) {
 
