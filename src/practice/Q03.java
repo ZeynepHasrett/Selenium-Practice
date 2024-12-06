@@ -54,8 +54,6 @@ public class Q03 {
         String expectedTitleIcerik = "Walmart.com";
         String actualTitle = driver.getTitle();
 
-        System.out.println(actualTitle);
-
         if (actualTitle.contains(expectedTitleIcerik)) {
             System.out.println("Title testi PASSED");
         } else System.out.println("Title testi FAILED");
